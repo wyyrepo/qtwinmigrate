@@ -1,0 +1,5 @@
+Dbmanager DLL 生成
+
+1、采用了开源的qtwinmigrate框架作为基础
+2、examples文件夹中的DBManageDLL文件夹为界面框架程序
+3、将界面框架程序添加到qtwinmigrate框架中进行构建，生成DbmanagerDLL，可用于MFC的调用。

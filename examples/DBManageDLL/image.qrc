@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/black.css</file>
+        <file>qss/blue.css</file>
+        <file>qss/brown.css</file>
+        <file>qss/ceshi.css</file>
+        <file>qss/darkgray.css</file>
+        <file>qss/dev.css</file>
+        <file>qss/gray.css</file>
+        <file>qss/lightgray.css</file>
+        <file>qss/silvery.css</file>
+        <file>sysButton/arrow_down.png</file>
+        <file>sysButton/checkBox.png</file>
+        <file>sysButton/checkBoxChecked.png</file>
+        <file>sysButton/close.png</file>
+        <file>sysButton/close_hover.png</file>
+        <file>sysButton/close_pressed.png</file>
+        <file>sysButton/feedback.png</file>
+        <file>sysButton/feedback_hover.png</file>
+        <file>sysButton/feedback_pressed.png</file>
+        <file>sysButton/max.png</file>
+        <file>sysButton/max_hover.png</file>
+        <file>sysButton/medal.png</file>
+        <file>sysButton/medal_hover.png</file>
+        <file>sysButton/medal_pressed.png</file>
+        <file>sysButton/menu.png</file>
+        <file>sysButton/menu_hover.png</file>
+        <file>sysButton/menu_pressed.png</file>
+        <file>sysButton/min.png</file>
+        <file>sysButton/min_hover.png</file>
+        <file>sysButton/min_pressed.png</file>
+        <file>sysButton/skin.png</file>
+        <file>sysButton/skin_hover.png</file>
+        <file>sysButton/skin_pressed.png</file>
+        <file>sysButton/titleicon.png</file>
+    </qresource>
+</RCC>

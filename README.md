@@ -1,0 +1,2 @@
+# qtwinmigrate
+在QT环境下通过qtwinmigrate框架生成可以用于MFC的动态链接库 
